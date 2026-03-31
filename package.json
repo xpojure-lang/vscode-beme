@@ -3,11 +3,11 @@
   "displayName": "Beme",
   "description": "Syntax highlighting for the beme language — M-expression syntax over Clojure.",
   "version": "0.4.0",
-  "publisher": "beme-lang",
+  "publisher": "xpojure-lang",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/beme-lang/vscode-beme.git"
+    "url": "https://github.com/xpojure-lang/vscode-beme.git"
   },
   "engines": {
     "vscode": "^1.75.0"
